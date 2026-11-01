@@ -1,0 +1,5 @@
+- This folder is the SES Attorneys website code. Make all website changes here, not in the design files.
+- Edit sources in `src/` (content and settings in `src/static/js/data.js`), then run `node build.js`. Never hand-edit `docs/`; it is generated and is what GitHub Pages publishes.
+- Preview with `node serve.js` at http://localhost:8080.
+- No em dashes or en dashes in any copy.
+- Design reference files are in `../Test workings (1)/` (read only).

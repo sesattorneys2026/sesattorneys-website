@@ -1,0 +1,14 @@
+{
+  "name": "sesattorneys-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website for SES Attorneys, Pune (sesattorneys.com). Static site built with a zero-dependency Node script.",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node serve.js",
+    "dev": "node build.js && node serve.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

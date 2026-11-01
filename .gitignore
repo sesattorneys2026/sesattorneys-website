@@ -1,0 +1,12 @@
+# Dependencies (none today, kept for safety)
+node_modules/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+*.log
+
+# Design source files live outside this repo
+*.dc.html
